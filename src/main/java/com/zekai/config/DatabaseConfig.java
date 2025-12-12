@@ -29,13 +29,13 @@ public class DatabaseConfig {
      * Database username
      * Default: root (change this for production)
      */
-    public static final String DB_USER = "root";
+    public static final String DB_USER = "exam";
 
     /**
      * Database password
      * ⚠️ IMPORTANT: Change this to your actual MySQL password!
      */
-    public static final String DB_PASSWORD = "root";  // ⬅️ MODIFY THIS!
+    public static final String DB_PASSWORD = "lzk100207";  // Dedicated exam user
 
     /**
      * JDBC Driver class name
